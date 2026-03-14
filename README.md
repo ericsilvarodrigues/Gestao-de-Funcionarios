@@ -27,9 +27,9 @@ Projetinho de Banco de dados (MYSQL Workbench), Frontend (React.JS), Backend (No
   `salario` decimal(10,2) NOT NULL,
   PRIMARY KEY (`idfuncionarios`)
 
-  * Após concluir os passos acima, instale as bibliotecas:
-  * Front-end: npm install axios styled-components react-icons react-toastify jspdf jspdf-autotable, yarn install;
-  * Back-end: npm install express mysql2 cors nodemon;
+* Após concluir os passos acima, instale as bibliotecas:
+* Front-end: npm install axios styled-components react-icons react-toastify jspdf jspdf-autotable, yarn install;
+* Back-end: npm install express mysql2 cors nodemon;
 
 ### Execução do Projeto:
  * Para execução do backend acesse o seguinte caminho no terminal GerenciarFuncionarios\api> e execute o comando yarn start;
